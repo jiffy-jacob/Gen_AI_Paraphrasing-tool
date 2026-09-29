@@ -1,0 +1,4 @@
+# Each row is original text, a TAB, then a human-written reference paraphrase.
+Regular exercise can improve physical health and reduce stress.	Physical activity benefits the body and can help lower stress.
+A balanced diet includes a variety of foods that provide essential nutrients.	Eating different kinds of food helps supply the nutrients the body needs.
+The library will be closed on Monday, but it will reopen on Tuesday morning.	The library is shut Monday and opens again Tuesday morning.
